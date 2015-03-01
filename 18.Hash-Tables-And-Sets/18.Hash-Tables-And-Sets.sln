@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.CountIntegers", "1.CountIntegers\1.CountIntegers.csproj", "{75B47721-CB56-438B-B6FF-232974A79984}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.ExtractOdds", "2.ExtractOdds\2.ExtractOdds.csproj", "{25641785-5229-4EA9-A47E-1446EF32EBED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.CountAndSortWordsInText", "3.CountAndSortWordsInText\3.CountAndSortWordsInText.csproj", "{F120489A-E59A-4583-B019-3F2BC27FA38F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.HashTable", "4.HashTable\4.HashTable.csproj", "{AAF6F943-0FE8-44A9-8E9B-0073C76E677F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Set", "5.Set\5.Set.csproj", "{CCD6A990-E2F9-4027-B618-D13AF0FE97E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B47721-CB56-438B-B6FF-232974A79984}.Debug|x86.ActiveCfg = Debug|x86
+		{75B47721-CB56-438B-B6FF-232974A79984}.Debug|x86.Build.0 = Debug|x86
+		{75B47721-CB56-438B-B6FF-232974A79984}.Release|x86.ActiveCfg = Release|x86
+		{75B47721-CB56-438B-B6FF-232974A79984}.Release|x86.Build.0 = Release|x86
+		{25641785-5229-4EA9-A47E-1446EF32EBED}.Debug|x86.ActiveCfg = Debug|x86
+		{25641785-5229-4EA9-A47E-1446EF32EBED}.Debug|x86.Build.0 = Debug|x86
+		{25641785-5229-4EA9-A47E-1446EF32EBED}.Release|x86.ActiveCfg = Release|x86
+		{25641785-5229-4EA9-A47E-1446EF32EBED}.Release|x86.Build.0 = Release|x86
+		{F120489A-E59A-4583-B019-3F2BC27FA38F}.Debug|x86.ActiveCfg = Debug|x86
+		{F120489A-E59A-4583-B019-3F2BC27FA38F}.Debug|x86.Build.0 = Debug|x86
+		{F120489A-E59A-4583-B019-3F2BC27FA38F}.Release|x86.ActiveCfg = Release|x86
+		{F120489A-E59A-4583-B019-3F2BC27FA38F}.Release|x86.Build.0 = Release|x86
+		{AAF6F943-0FE8-44A9-8E9B-0073C76E677F}.Debug|x86.ActiveCfg = Debug|x86
+		{AAF6F943-0FE8-44A9-8E9B-0073C76E677F}.Debug|x86.Build.0 = Debug|x86
+		{AAF6F943-0FE8-44A9-8E9B-0073C76E677F}.Release|x86.ActiveCfg = Release|x86
+		{AAF6F943-0FE8-44A9-8E9B-0073C76E677F}.Release|x86.Build.0 = Release|x86
+		{CCD6A990-E2F9-4027-B618-D13AF0FE97E5}.Debug|x86.ActiveCfg = Debug|x86
+		{CCD6A990-E2F9-4027-B618-D13AF0FE97E5}.Debug|x86.Build.0 = Debug|x86
+		{CCD6A990-E2F9-4027-B618-D13AF0FE97E5}.Release|x86.ActiveCfg = Release|x86
+		{CCD6A990-E2F9-4027-B618-D13AF0FE97E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

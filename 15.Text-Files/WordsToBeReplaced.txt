@@ -1,0 +1,4 @@
+this is some line with start
+int this starting here
+thi not contain sta rt fooo
+sasaas

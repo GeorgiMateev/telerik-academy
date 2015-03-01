@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.PrintMyName", "IntroductionToProgramingHW\6.PrintMyName.csproj", "{375206D3-6D6F-45D5-AE59-A994E0A9239D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7.PrintOnNewLine", "PrintOnNewLine\7.PrintOnNewLine.csproj", "{095A73C3-5565-4AEC-AD0B-4465AE488B25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8.PrintCurrentDateTime", "PrintCurrentDateTime\8.PrintCurrentDateTime.csproj", "{87FEFB9C-4024-474E-8BDD-0EF12C4F57CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9.GetSQRT", "GetSQRT\9.GetSQRT.csproj", "{275952FD-9A01-45E1-9641-68F93F3A878B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10.PrintFirst100", "PrintFirst100\10.PrintFirst100.csproj", "{309CFC74-0251-41DC-A9EA-8BF702258C92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11.PrintYourAgeAfter10Years", "PrintYourAgeAfter10Years\11.PrintYourAgeAfter10Years.csproj", "{6A0DA137-750B-4198-9F1D-0F8E9C8952E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{375206D3-6D6F-45D5-AE59-A994E0A9239D}.Debug|x86.ActiveCfg = Debug|x86
+		{375206D3-6D6F-45D5-AE59-A994E0A9239D}.Debug|x86.Build.0 = Debug|x86
+		{375206D3-6D6F-45D5-AE59-A994E0A9239D}.Release|x86.ActiveCfg = Release|x86
+		{375206D3-6D6F-45D5-AE59-A994E0A9239D}.Release|x86.Build.0 = Release|x86
+		{095A73C3-5565-4AEC-AD0B-4465AE488B25}.Debug|x86.ActiveCfg = Debug|x86
+		{095A73C3-5565-4AEC-AD0B-4465AE488B25}.Debug|x86.Build.0 = Debug|x86
+		{095A73C3-5565-4AEC-AD0B-4465AE488B25}.Release|x86.ActiveCfg = Release|x86
+		{095A73C3-5565-4AEC-AD0B-4465AE488B25}.Release|x86.Build.0 = Release|x86
+		{87FEFB9C-4024-474E-8BDD-0EF12C4F57CE}.Debug|x86.ActiveCfg = Debug|x86
+		{87FEFB9C-4024-474E-8BDD-0EF12C4F57CE}.Debug|x86.Build.0 = Debug|x86
+		{87FEFB9C-4024-474E-8BDD-0EF12C4F57CE}.Release|x86.ActiveCfg = Release|x86
+		{87FEFB9C-4024-474E-8BDD-0EF12C4F57CE}.Release|x86.Build.0 = Release|x86
+		{275952FD-9A01-45E1-9641-68F93F3A878B}.Debug|x86.ActiveCfg = Debug|x86
+		{275952FD-9A01-45E1-9641-68F93F3A878B}.Debug|x86.Build.0 = Debug|x86
+		{275952FD-9A01-45E1-9641-68F93F3A878B}.Release|x86.ActiveCfg = Release|x86
+		{275952FD-9A01-45E1-9641-68F93F3A878B}.Release|x86.Build.0 = Release|x86
+		{309CFC74-0251-41DC-A9EA-8BF702258C92}.Debug|x86.ActiveCfg = Debug|x86
+		{309CFC74-0251-41DC-A9EA-8BF702258C92}.Debug|x86.Build.0 = Debug|x86
+		{309CFC74-0251-41DC-A9EA-8BF702258C92}.Release|x86.ActiveCfg = Release|x86
+		{309CFC74-0251-41DC-A9EA-8BF702258C92}.Release|x86.Build.0 = Release|x86
+		{6A0DA137-750B-4198-9F1D-0F8E9C8952E5}.Debug|x86.ActiveCfg = Debug|x86
+		{6A0DA137-750B-4198-9F1D-0F8E9C8952E5}.Debug|x86.Build.0 = Debug|x86
+		{6A0DA137-750B-4198-9F1D-0F8E9C8952E5}.Release|x86.ActiveCfg = Release|x86
+		{6A0DA137-750B-4198-9F1D-0F8E9C8952E5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
